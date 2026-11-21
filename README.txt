@@ -1,0 +1,1 @@
+Open index.html in Chrome. Keep style.css and assets folder beside it. The form is a visual demo; real message sending needs a backend.
